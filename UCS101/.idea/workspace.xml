@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="BookmarkManager">
+        <bookmark url="file://$PROJECT_DIR$/5_Rotate.py" description="all_letters = string.ascii_lowercase" line="12"/>
+    </component>
+    <component name="ChangeListManager">
+        <list default="true" id="763b2bbd-7c14-4438-b6eb-8440dd09be38" name="Default" comment=""/>
+        <ignored path="UCS101.iws"/>
+        <ignored path=".idea/workspace.xml"/>
+        <option name="TRACKING_ENABLED" value="true"/>
+        <option name="SHOW_DIALOG" value="false"/>
+        <option name="HIGHLIGHT_CONFLICTS" value="true"/>
+        <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false"/>
+        <option name="LAST_RESOLUTION" value="IGNORE"/>
+    </component>
+    <component name="ChangesViewManager" flattened_view="true" show_ignored="false"/>
+    <component name="CoverageDataManager">
+        <SUITE FILE_PATH="coverage/UCS101$3_maxpages.coverage" NAME="3_maxpages Coverage Results"
+               MODIFIED="1377321359417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider"
+               RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false"
+               WORKING_DIRECTORY="$PROJECT_DIR$"/>
+    </component>
+    <component name="CreatePatchCommitExecutor">
+        <option name="PATCH_PATH" value=""/>
+    </component>
+    <component name="DaemonCodeAnalyzer">
+        <disable_hints/>
+    </component>
+    <component name="ExecutionTargetManager" SELECTED_TARGET="default_target"/>
+    <component name="FavoritesManager">
+        <favorites_list name="UCS101"/>
+    </component>
+    <component name="FileEditorManager">
+        <leaf>
+            <file leaf-file-name="6_ImplementingUrank.py" pinned="false" current="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/6_ImplementingUrank.py">
+                    <provider selected="true" editor-type-id="text-editor">
+                        <state line="22" column="14" selection-start="662" selection-end="958"
+                               vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="3876">
+                            <folding/>
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file leaf-file-name="6_FinishUrank.py" pinned="false" current="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/6_FinishUrank.py">
+                    <provider selected="true" editor-type-id="text-editor">
+                        <state line="13" column="26" selection-start="293" selection-end="293"
+                               vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="3961">
+                            <folding/>
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file leaf-file-name="147_SportPoints.py" pinned="false" current="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/../DailyProgrammer/147_SportPoints.py">
+                    <provider selected="true" editor-type-id="text-editor">
+                        <state line="2" column="0" selection-start="22" selection-end="22"
+                               vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136">
+                            <folding/>
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file leaf-file-name="2_TrainFocus.py" pinned="false" current="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/2_TrainFocus.py">
+                    <provider selected="true" editor-type-id="text-editor">
+                        <state line="13" column="35" selection-start="187" selection-end="187"
+                               vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="323">
+                            <folding/>
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file leaf-file-name="2_TextReplacement.py" pinned="false" current="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/2_TextReplacement.py">
+                    <provider selected="true" editor-type-id="text-editor">
+                        <state line="32" column="0" selection-start="1235" selection-end="1279"
+                               vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="867">
+                            <folding/>
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file leaf-file-name="1_Palindrome.py" pinned="false" current="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/1_Palindrome.py">
+                    <provider selected="true" editor-type-id="text-editor">
+                        <state line="46" column="9" selection-start="1197" selection-end="1197"
+                               vertical-scroll-proportion="0.0" vertical-offset="35" max-vertical-offset="918">
+                            <folding/>
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file leaf-file-name="2_SuperheroNuisance.py" pinned="false" current="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/2_SuperheroNuisance.py">
+                    <provider selected="true" editor-type-id="text-editor">
+                        <state line="29" column="0" selection-start="1037" selection-end="1237"
+                               vertical-scroll-proportion="0.0" vertical-offset="115" max-vertical-offset="850">
+                            <folding>
+                                <marker date="1393726847624" expanded="true" signature="1070:1237" placeholder="..."/>
+                            </folding>
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file leaf-file-name="2_DaysOld.py" pinned="false" current="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/2_DaysOld.py">
+                    <provider selected="true" editor-type-id="text-editor">
+                        <state line="10" column="0" selection-start="236" selection-end="1357"
+                               vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1224">
+                            <folding/>
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file leaf-file-name="2_10RowAbacus.py" pinned="false" current="true" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/2_10RowAbacus.py">
+                    <provider selected="true" editor-type-id="text-editor">
+                        <state line="70" column="19" selection-start="2238" selection-end="2238"
+                               vertical-scroll-proportion="0.5625731" vertical-offset="709" max-vertical-offset="1564">
+                            <folding/>
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+        </leaf>
+    </component>
+    <component name="FindManager">
+        <FindUsagesManager>
+            <setting name="OPEN_NEW_TAB" value="false"/>
+        </FindUsagesManager>
+    </component>
+    <component name="IdeDocumentHistory">
+        <option name="changedFiles">
+            <list>
+                <option value="$PROJECT_DIR$/6_RecursiveFactorial.py"/>
+                <option value="$PROJECT_DIR$/6_Palindromes.py"/>
+                <option value="$PROJECT_DIR$/6_Bunnies.py"/>
+                <option value="$PROJECT_DIR$/6_FasterFibonacci.py"/>
+                <option value="$PROJECT_DIR$/6_ImplementingUrank.py"/>
+                <option value="$PROJECT_DIR$/../DailyProgrammer/148_CombinationLock.py"/>
+                <option value="$PROJECT_DIR$/../DailyProgrammer/125_WordAnalytics"/>
+                <option value="$PROJECT_DIR$/../DailyProgrammer/125_WordAnalytics.py"/>
+                <option value="$PROJECT_DIR$/6_FinishUrank.py"/>
+                <option value="$PROJECT_DIR$/../DailyProgrammer/147_SportPoints.py"/>
+                <option value="$PROJECT_DIR$/2_TrainFocus.py"/>
+                <option value="$PROJECT_DIR$/2_TextReplacement.py"/>
+                <option value="$PROJECT_DIR$/1_Palindrome.py"/>
+                <option value="$PROJECT_DIR$/2_SuperheroNuisance.py"/>
+                <option value="$PROJECT_DIR$/2_10RowAbacus.py"/>
+                <option value="$PROJECT_DIR$/2_DaysOld.py"/>
+            </list>
+        </option>
+    </component>
+    <component name="ProjectFrameBounds">
+        <option name="x" value="-8"/>
+        <option name="y" value="-8"/>
+        <option name="width" value="1936"/>
+        <option name="height" value="1056"/>
+    </component>
+    <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+            <profile-state>
+                <expanded-state>
+                    <State>
+                        <id/>
+                    </State>
+                </expanded-state>
+                <selected-state>
+                    <State>
+                        <id>Python</id>
+                    </State>
+                </selected-state>
+            </profile-state>
+        </entry>
+    </component>
+    <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+        <OptionsSetting value="true" id="Add"/>
+        <OptionsSetting value="true" id="Remove"/>
+        <OptionsSetting value="true" id="Checkout"/>
+        <OptionsSetting value="true" id="Update"/>
+        <OptionsSetting value="true" id="Status"/>
+        <OptionsSetting value="true" id="Edit"/>
+        <ConfirmationsSetting value="0" id="Add"/>
+        <ConfirmationsSetting value="0" id="Remove"/>
+    </component>
+    <component name="ProjectReloadState">
+        <option name="STATE" value="0"/>
+    </component>
+    <component name="ProjectView">
+        <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+            <flattenPackages/>
+            <showMembers/>
+            <showModules/>
+            <showLibraryContents/>
+            <hideEmptyPackages/>
+            <abbreviatePackageNames/>
+            <autoscrollToSource/>
+            <autoscrollFromSource/>
+            <sortByType/>
+        </navigator>
+        <panes>
+            <pane id="Scope"/>
+            <pane id="ProjectPane">
+                <subPane>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="UCS101"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                    <PATH>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="UCS101"/>
+                            <option name="myItemType"
+                                    value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
+                        </PATH_ELEMENT>
+                        <PATH_ELEMENT>
+                            <option name="myItemId" value="UCS101"/>
+                            <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
+                        </PATH_ELEMENT>
+                    </PATH>
+                </subPane>
+            </pane>
+        </panes>
+    </component>
+    <component name="PropertiesComponent">
+        <property name="options.splitter.main.proportions" value="0.3"/>
+        <property name="WebServerToolWindowFactoryState" value="false"/>
+        <property name="recentsLimit" value="5"/>
+        <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font"/>
+        <property name="last_opened_file_path" value="$PROJECT_DIR$/../DailyProgrammer"/>
+        <property name="FullScreen" value="false"/>
+        <property name="options.splitter.details.proportions" value="0.2"/>
+        <property name="options.searchVisible" value="true"/>
+    </component>
+    <component name="PyConsoleOptionsProvider">
+        <option name="myPythonConsoleState">
+            <PyConsoleSettings/>
+        </option>
+    </component>
+    <component name="RecentsManager">
+        <key name="MoveFile.RECENT_KEYS">
+            <recent name="C:\Users\Umair\Dropbox\Code\Udacity\DailyProgrammer"/>
+        </key>
+    </component>
+    <component name="RunManager" selected="Python.2_DaysOld">
+        <configuration default="false" name="2_TrainFocus" type="PythonConfigurationType" factoryName="Python"
+                       temporary="true">
+            <option name="INTERPRETER_OPTIONS" value=""/>
+            <option name="PARENT_ENVS" value="true"/>
+            <envs>
+                <env name="PYTHONUNBUFFERED" value="1"/>
+            </envs>
+            <option name="SDK_HOME" value=""/>
+            <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$"/>
+            <option name="IS_MODULE_SDK" value="true"/>
+            <option name="ADD_CONTENT_ROOTS" value="true"/>
+            <option name="ADD_SOURCE_ROOTS" value="true"/>
+            <module name="UCS101"/>
+            <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true"
+                       runner="coverage.py"/>
+            <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_TrainFocus.py"/>
+            <option name="PARAMETERS" value=""/>
+            <RunnerSettings RunnerId="PythonRunner"/>
+            <ConfigurationWrapper RunnerId="PythonRunner"/>
+            <method/>
+        </configuration>
+        <configuration default="false" name="2_TextReplacement" type="PythonConfigurationType" factoryName="Python"
+                       temporary="true">
+            <option name="INTERPRETER_OPTIONS" value=""/>
+            <option name="PARENT_ENVS" value="true"/>
+            <envs>
+                <env name="PYTHONUNBUFFERED" value="1"/>
+            </envs>
+            <option name="SDK_HOME" value=""/>
+            <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$"/>
+            <option name="IS_MODULE_SDK" value="true"/>
+            <option name="ADD_CONTENT_ROOTS" value="true"/>
+            <option name="ADD_SOURCE_ROOTS" value="true"/>
+            <module name="UCS101"/>
+            <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true"
+                       runner="coverage.py"/>
+            <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_TextReplacement.py"/>
+            <option name="PARAMETERS" value=""/>
+            <RunnerSettings RunnerId="PythonRunner"/>
+            <ConfigurationWrapper RunnerId="PythonRunner"/>
+            <method/>
+        </configuration>
+        <configuration default="false" name="1_Palindrome" type="PythonConfigurationType" factoryName="Python"
+                       temporary="true">
+            <option name="INTERPRETER_OPTIONS" value=""/>
+            <option name="PARENT_ENVS" value="true"/>
+            <envs>
+                <env name="PYTHONUNBUFFERED" value="1"/>
+            </envs>
+            <option name="SDK_HOME" value=""/>
+            <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$"/>
+            <option name="IS_MODULE_SDK" value="true"/>
+            <option name="ADD_CONTENT_ROOTS" value="true"/>
+            <option name="ADD_SOURCE_ROOTS" value="true"/>
+            <module name="UCS101"/>
+            <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true"
+                       runner="coverage.py"/>
+            <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_Palindrome.py"/>
+            <option name="PARAMETERS" value=""/>
+            <RunnerSettings RunnerId="PythonRunner"/>
+            <ConfigurationWrapper RunnerId="PythonRunner"/>
+            <method/>
+        </configuration>
+        <configuration default="false" name="2_SuperheroNuisance" type="PythonConfigurationType" factoryName="Python"
+                       temporary="true">
+            <option name="INTERPRETER_OPTIONS" value=""/>
+            <option name="PARENT_ENVS" value="true"/>
+            <envs>
+                <env name="PYTHONUNBUFFERED" value="1"/>
+            </envs>
+            <option name="SDK_HOME" value=""/>
+            <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$"/>
+            <option name="IS_MODULE_SDK" value="true"/>
+            <option name="ADD_CONTENT_ROOTS" value="true"/>
+            <option name="ADD_SOURCE_ROOTS" value="true"/>
+            <module name="UCS101"/>
+            <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true"
+                       runner="coverage.py"/>
+            <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_SuperheroNuisance.py"/>
+            <option name="PARAMETERS" value=""/>
+            <RunnerSettings RunnerId="PythonRunner"/>
+            <ConfigurationWrapper RunnerId="PythonRunner"/>
+            <method/>
+        </configuration>
+        <configuration default="false" name="2_DaysOld" type="PythonConfigurationType" factoryName="Python"
+                       temporary="true">
+            <option name="INTERPRETER_OPTIONS" value=""/>
+            <option name="PARENT_ENVS" value="true"/>
+            <envs>
+                <env name="PYTHONUNBUFFERED" value="1"/>
+            </envs>
+            <option name="SDK_HOME" value=""/>
+            <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$"/>
+            <option name="IS_MODULE_SDK" value="true"/>
+            <option name="ADD_CONTENT_ROOTS" value="true"/>
+            <option name="ADD_SOURCE_ROOTS" value="true"/>
+            <module name="UCS101"/>
+            <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true"
+                       runner="coverage.py"/>
+            <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_DaysOld.py"/>
+            <option name="PARAMETERS" value=""/>
+            <RunnerSettings RunnerId="PyDebugRunner"/>
+            <RunnerSettings RunnerId="PythonRunner"/>
+            <ConfigurationWrapper RunnerId="PyDebugRunner"/>
+            <ConfigurationWrapper RunnerId="PythonRunner"/>
+            <method/>
+        </configuration>
+        <configuration default="true" type="tests" factoryName="py.test">
+            <option name="INTERPRETER_OPTIONS" value=""/>
+            <option name="PARENT_ENVS" value="true"/>
+            <envs/>
+            <option name="SDK_HOME" value=""/>
+            <option name="WORKING_DIRECTORY" value=""/>
+            <option name="IS_MODULE_SDK" value="false"/>
+            <option name="ADD_CONTENT_ROOTS" value="true"/>
+            <option name="ADD_SOURCE_ROOTS" value="true"/>
+            <module name="UCS101"/>
+            <option name="SCRIPT_NAME" value=""/>
+            <option name="CLASS_NAME" value=""/>
+            <option name="METHOD_NAME" value=""/>
+            <option name="FOLDER_NAME" value=""/>
+            <option name="TEST_TYPE" value="TEST_SCRIPT"/>
+            <option name="PATTERN" value=""/>
+            <option name="USE_PATTERN" value="false"/>
+            <option name="testToRun" value=""/>
+            <option name="keywords" value=""/>
+            <option name="params" value=""/>
+            <option name="USE_PARAM" value="false"/>
+            <option name="USE_KEYWORD" value="false"/>
+            <method/>
+        </configuration>
+        <configuration default="true" type="tests" factoryName="Nosetests">
+            <option name="INTERPRETER_OPTIONS" value=""/>
+            <option name="PARENT_ENVS" value="true"/>
+            <envs/>
+            <option name="SDK_HOME" value=""/>
+            <option name="WORKING_DIRECTORY" value=""/>
+            <option name="IS_MODULE_SDK" value="false"/>
+            <option name="ADD_CONTENT_ROOTS" value="true"/>
+            <option name="ADD_SOURCE_ROOTS" value="true"/>
+            <module name="UCS101"/>
+            <option name="SCRIPT_NAME" value=""/>
+            <option name="CLASS_NAME" value=""/>
+            <option name="METHOD_NAME" value=""/>
+            <option name="FOLDER_NAME" value=""/>
+            <option name="TEST_TYPE" value="TEST_SCRIPT"/>
+            <option name="PATTERN" value=""/>
+            <option name="USE_PATTERN" value="false"/>
+            <option name="PARAMS" value=""/>
+            <option name="USE_PARAM" value="false"/>
+            <method/>
+        </configuration>
+        <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+            <option name="INTERPRETER_OPTIONS" value=""/>
+            <option name="PARENT_ENVS" value="true"/>
+            <envs>
+                <env name="PYTHONUNBUFFERED" value="1"/>
+            </envs>
+            <option name="SDK_HOME" value=""/>
+            <option name="WORKING_DIRECTORY" value=""/>
+            <option name="IS_MODULE_SDK" value="false"/>
+            <option name="ADD_CONTENT_ROOTS" value="true"/>
+            <option name="ADD_SOURCE_ROOTS" value="true"/>
+            <module name="UCS101"/>
+            <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true"
+                       runner="coverage.py"/>
+            <option name="SCRIPT_NAME" value=""/>
+            <option name="PARAMETERS" value=""/>
+            <method/>
+        </configuration>
+        <configuration default="true" type="tests" factoryName="Unittests">
+            <option name="INTERPRETER_OPTIONS" value=""/>
+            <option name="PARENT_ENVS" value="true"/>
+            <envs/>
+            <option name="SDK_HOME" value=""/>
+            <option name="WORKING_DIRECTORY" value=""/>
+            <option name="IS_MODULE_SDK" value="false"/>
+            <option name="ADD_CONTENT_ROOTS" value="true"/>
+            <option name="ADD_SOURCE_ROOTS" value="true"/>
+            <module name="UCS101"/>
+            <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true"
+                       runner="coverage.py"/>
+            <option name="SCRIPT_NAME" value=""/>
+            <option name="CLASS_NAME" value=""/>
+            <option name="METHOD_NAME" value=""/>
+            <option name="FOLDER_NAME" value=""/>
+            <option name="TEST_TYPE" value="TEST_SCRIPT"/>
+            <option name="PATTERN" value=""/>
+            <option name="USE_PATTERN" value="false"/>
+            <option name="PUREUNITTEST" value="true"/>
+            <option name="PARAMS" value=""/>
+            <option name="USE_PARAM" value="false"/>
+            <method/>
+        </configuration>
+        <configuration default="true" type="tests" factoryName="Doctests">
+            <option name="INTERPRETER_OPTIONS" value=""/>
+            <option name="PARENT_ENVS" value="true"/>
+            <envs/>
+            <option name="SDK_HOME" value=""/>
+            <option name="WORKING_DIRECTORY" value=""/>
+            <option name="IS_MODULE_SDK" value="false"/>
+            <option name="ADD_CONTENT_ROOTS" value="true"/>
+            <option name="ADD_SOURCE_ROOTS" value="true"/>
+            <module name="UCS101"/>
+            <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true"
+                       runner="coverage.py"/>
+            <option name="SCRIPT_NAME" value=""/>
+            <option name="CLASS_NAME" value=""/>
+            <option name="METHOD_NAME" value=""/>
+            <option name="FOLDER_NAME" value=""/>
+            <option name="TEST_TYPE" value="TEST_SCRIPT"/>
+            <option name="PATTERN" value=""/>
+            <option name="USE_PATTERN" value="false"/>
+            <method/>
+        </configuration>
+        <configuration default="true" type="tests" factoryName="Attests">
+            <option name="INTERPRETER_OPTIONS" value=""/>
+            <option name="PARENT_ENVS" value="true"/>
+            <envs/>
+            <option name="SDK_HOME" value=""/>
+            <option name="WORKING_DIRECTORY" value=""/>
+            <option name="IS_MODULE_SDK" value="false"/>
+            <option name="ADD_CONTENT_ROOTS" value="true"/>
+            <option name="ADD_SOURCE_ROOTS" value="true"/>
+            <module name="UCS101"/>
+            <option name="SCRIPT_NAME" value=""/>
+            <option name="CLASS_NAME" value=""/>
+            <option name="METHOD_NAME" value=""/>
+            <option name="FOLDER_NAME" value=""/>
+            <option name="TEST_TYPE" value="TEST_SCRIPT"/>
+            <option name="PATTERN" value=""/>
+            <option name="USE_PATTERN" value="false"/>
+            <method/>
+        </configuration>
+        <configuration default="false" name="5_ShiftNLetters" type="PythonConfigurationType" factoryName="Python">
+            <option name="INTERPRETER_OPTIONS" value=""/>
+            <option name="PARENT_ENVS" value="true"/>
+            <envs>
+                <env name="PYTHONUNBUFFERED" value="1"/>
+            </envs>
+            <option name="SDK_HOME" value=""/>
+            <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$"/>
+            <option name="IS_MODULE_SDK" value="true"/>
+            <option name="ADD_CONTENT_ROOTS" value="true"/>
+            <option name="ADD_SOURCE_ROOTS" value="true"/>
+            <module name="UCS101"/>
+            <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true"
+                       runner="coverage.py"/>
+            <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_ShiftNLetters.py"/>
+            <option name="PARAMETERS" value=""/>
+            <RunnerSettings RunnerId="PythonRunner"/>
+            <ConfigurationWrapper RunnerId="PythonRunner"/>
+            <method/>
+        </configuration>
+        <list size="6">
+            <item index="0" class="java.lang.String" itemvalue="Python.5_ShiftNLetters"/>
+            <item index="1" class="java.lang.String" itemvalue="Python.2_TrainFocus"/>
+            <item index="2" class="java.lang.String" itemvalue="Python.2_TextReplacement"/>
+            <item index="3" class="java.lang.String" itemvalue="Python.1_Palindrome"/>
+            <item index="4" class="java.lang.String" itemvalue="Python.2_SuperheroNuisance"/>
+            <item index="5" class="java.lang.String" itemvalue="Python.2_DaysOld"/>
+        </list>
+        <recent_temporary>
+            <list size="5">
+                <item index="0" class="java.lang.String" itemvalue="Python.2_DaysOld"/>
+                <item index="1" class="java.lang.String" itemvalue="Python.2_SuperheroNuisance"/>
+                <item index="2" class="java.lang.String" itemvalue="Python.1_Palindrome"/>
+                <item index="3" class="java.lang.String" itemvalue="Python.2_TextReplacement"/>
+                <item index="4" class="java.lang.String" itemvalue="Python.2_TrainFocus"/>
+            </list>
+        </recent_temporary>
+    </component>
+    <component name="ShelveChangesManager" show_recycled="false"/>
+    <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing"
+               myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+        <option name="USER" value=""/>
+        <option name="PASSWORD" value=""/>
+        <option name="mySSHConnectionTimeout" value="30000"/>
+        <option name="mySSHReadTimeout" value="30000"/>
+        <option name="LAST_MERGED_REVISION"/>
+        <option name="MERGE_DRY_RUN" value="false"/>
+        <option name="MERGE_DIFF_USE_ANCESTRY" value="true"/>
+        <option name="UPDATE_LOCK_ON_DEMAND" value="false"/>
+        <option name="IGNORE_SPACES_IN_MERGE" value="false"/>
+        <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false"/>
+        <option name="IGNORE_SPACES_IN_ANNOTATE" value="true"/>
+        <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true"/>
+        <option name="FORCE_UPDATE" value="false"/>
+        <option name="IGNORE_EXTERNALS" value="false"/>
+        <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    </component>
+    <component name="TaskManager">
+        <task active="true" id="Default" summary="Default task">
+            <changelist id="763b2bbd-7c14-4438-b6eb-8440dd09be38" name="Default" comment=""/>
+            <created>1377319747790</created>
+            <updated>1377319747790</updated>
+        </task>
+        <servers/>
+    </component>
+    <component name="ToolWindowManager">
+        <frame x="-8" y="-8" width="1936" height="1056" extended-state="6"/>
+        <editor active="true"/>
+        <layout>
+            <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED"
+                         type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false"
+                         content_ui="tabs"/>
+            <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED"
+                         type="DOCKED" visible="false" weight="0.3296582" sideWeight="0.5" order="10" side_tool="false"
+                         content_ui="tabs"/>
+            <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED"
+                         visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs"/>
+            <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED"
+                         type="DOCKED" visible="false" weight="0.16286644" sideWeight="0.71444696" order="1"
+                         side_tool="false" content_ui="tabs"/>
+            <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED"
+                         type="DOCKED" visible="true" weight="0.05060622" sideWeight="0.9767184" order="0"
+                         side_tool="false" content_ui="combo"/>
+            <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED"
+                         type="DOCKED" visible="false" weight="0.35144123" sideWeight="0.5" order="3" side_tool="false"
+                         content_ui="tabs"/>
+            <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED"
+                         type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true"
+                         content_ui="tabs"/>
+            <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED"
+                         type="DOCKED" visible="false" weight="0.32126698" sideWeight="0.5005429" order="8"
+                         side_tool="true" content_ui="tabs"/>
+            <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED"
+                         visible="false" weight="0.023281597" sideWeight="0.49945712" order="2" side_tool="false"
+                         content_ui="tabs" x="10" y="680" width="1920" height="263"/>
+            <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED"
+                         type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false"
+                         content_ui="tabs"/>
+            <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED"
+                         visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs"/>
+            <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED"
+                         type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false"
+                         content_ui="tabs"/>
+            <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED"
+                         type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false"
+                         content_ui="tabs"/>
+            <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED"
+                         type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false"
+                         content_ui="tabs"/>
+            <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED"
+                         visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs"/>
+            <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING"
+                         type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false"
+                         content_ui="tabs"/>
+            <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED"
+                         type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false"
+                         content_ui="combo"/>
+            <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED"
+                         type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false"
+                         content_ui="tabs"/>
+        </layout>
+    </component>
+    <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000"/>
+    </component>
+    <component name="VcsManagerConfiguration">
+        <option name="myTodoPanelSettings">
+            <TodoPanelSettings/>
+        </option>
+    </component>
+    <component name="XDebuggerManager">
+        <breakpoint-manager>
+            <breakpoints>
+                <line-breakpoint enabled="true" type="python-line">
+                    <url>file://$PROJECT_DIR$/3_maxdepth.py</url>
+                    <line>133</line>
+                    <option name="timeStamp" value="11"/>
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="python-line">
+                    <url>file://$PROJECT_DIR$/3_sudoku</url>
+                    <line>67</line>
+                    <option name="timeStamp" value="14"/>
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="python-line">
+                    <url>file://$PROJECT_DIR$/2_stamps.py</url>
+                    <line>18</line>
+                    <option name="timeStamp" value="16"/>
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="python-line">
+                    <url>file://$PROJECT_DIR$/4_BetterSplitting.py</url>
+                    <line>36</line>
+                    <option name="timeStamp" value="18"/>
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="python-line">
+                    <url>file://$PROJECT_DIR$/5_Refactoring.py</url>
+                    <line>64</line>
+                    <option name="timeStamp" value="20"/>
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="python-line">
+                    <url>file://$PROJECT_DIR$/Memoization.py</url>
+                    <line>14</line>
+                    <option name="timeStamp" value="26"/>
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="python-line">
+                    <url>file://$PROJECT_DIR$/6_Palindromes.py</url>
+                    <line>9</line>
+                    <option name="timeStamp" value="29"/>
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="python-line">
+                    <url>file://$PROJECT_DIR$/6_Bunnies.py</url>
+                    <line>10</line>
+                    <option name="timeStamp" value="31"/>
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="python-line">
+                    <url>file://$PROJECT_DIR$/6_FasterFibonacci.py</url>
+                    <line>5</line>
+                    <option name="timeStamp" value="33"/>
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="python-line">
+                    <url>file://$PROJECT_DIR$/6_ImplementingUrank.py</url>
+                    <line>208</line>
+                    <option name="timeStamp" value="34"/>
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="python-line">
+                    <url>file://$PROJECT_DIR$/2_DaysOld.py</url>
+                    <line>57</line>
+                    <option name="timeStamp" value="37"/>
+                </line-breakpoint>
+            </breakpoints>
+            <option name="time" value="39"/>
+        </breakpoint-manager>
+    </component>
+    <component name="editorHistoryManager">
+        <entry file="file://$PROJECT_DIR$/Memoization.py">
+            <provider selected="true" editor-type-id="text-editor">
+                <state line="25" column="0" selection-start="1074" selection-end="1074" vertical-scroll-proportion="0.0"
+                       vertical-offset="258" max-vertical-offset="1139">
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/5_Refactoring.py">
+            <provider selected="true" editor-type-id="text-editor">
+                <state line="17" column="13" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0"
+                       vertical-offset="153" max-vertical-offset="1326">
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/6_Bunnies.py">
+            <provider selected="true" editor-type-id="text-editor">
+                <state line="24" column="8" selection-start="502" selection-end="502"
+                       vertical-scroll-proportion="0.43823844" vertical-offset="0" max-vertical-offset="931">
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/6_FasterFibonacci.py">
+            <provider selected="true" editor-type-id="text-editor">
+                <state line="19" column="0" selection-start="391" selection-end="391" vertical-scroll-proportion="0.0"
+                       vertical-offset="0" max-vertical-offset="459">
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/6_ImplementingUrank.py">
+            <provider selected="true" editor-type-id="text-editor">
+                <state line="22" column="14" selection-start="662" selection-end="958" vertical-scroll-proportion="0.0"
+                       vertical-offset="34" max-vertical-offset="3876">
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/../DailyProgrammer/125_WordAnalytics.py">
+            <provider selected="true" editor-type-id="text-editor">
+                <state line="10" column="20" selection-start="224" selection-end="224"
+                       vertical-scroll-proportion="0.20310633" vertical-offset="0" max-vertical-offset="837"/>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/../DailyProgrammer/148_CombinationLock.py">
+            <provider selected="true" editor-type-id="text-editor">
+                <state line="27" column="4" selection-start="1499" selection-end="1499"
+                       vertical-scroll-proportion="0.55703884" vertical-offset="0" max-vertical-offset="824"/>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/../DailyProgrammer/30_paragraph_lorem_ipsum.txt">
+            <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0"
+                       vertical-offset="0" max-vertical-offset="1088"/>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/6_FinishUrank.py">
+            <provider selected="true" editor-type-id="text-editor">
+                <state line="13" column="26" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0"
+                       vertical-offset="0" max-vertical-offset="3961">
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/../DailyProgrammer/147_SportPoints.py">
+            <provider selected="true" editor-type-id="text-editor">
+                <state line="2" column="0" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0"
+                       vertical-offset="0" max-vertical-offset="136">
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/2_TrainFocus.py">
+            <provider selected="true" editor-type-id="text-editor">
+                <state line="13" column="35" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0"
+                       vertical-offset="0" max-vertical-offset="323">
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/2_TextReplacement.py">
+            <provider selected="true" editor-type-id="text-editor">
+                <state line="32" column="0" selection-start="1235" selection-end="1279" vertical-scroll-proportion="0.0"
+                       vertical-offset="175" max-vertical-offset="867">
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/1_Palindrome.py">
+            <provider selected="true" editor-type-id="text-editor">
+                <state line="46" column="9" selection-start="1197" selection-end="1197" vertical-scroll-proportion="0.0"
+                       vertical-offset="35" max-vertical-offset="918">
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/2_SuperheroNuisance.py">
+            <provider selected="true" editor-type-id="text-editor">
+                <state line="29" column="0" selection-start="1037" selection-end="1237" vertical-scroll-proportion="0.0"
+                       vertical-offset="115" max-vertical-offset="850">
+                    <folding>
+                        <marker date="1393726847624" expanded="true" signature="1070:1237" placeholder="..."/>
+                    </folding>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/2_DaysOld.py">
+            <provider selected="true" editor-type-id="text-editor">
+                <state line="10" column="0" selection-start="236" selection-end="1357" vertical-scroll-proportion="0.0"
+                       vertical-offset="0" max-vertical-offset="1224">
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/2_10RowAbacus.py">
+            <provider selected="true" editor-type-id="text-editor">
+                <state line="70" column="19" selection-start="2238" selection-end="2238"
+                       vertical-scroll-proportion="0.5625731" vertical-offset="709" max-vertical-offset="1564">
+                    <folding/>
+                </state>
+            </provider>
+        </entry>
+    </component>
+    <component name="masterDetails">
+        <states>
+            <state key="ScopeChooserConfigurable.UI">
+                <settings>
+                    <splitter-proportions>
+                        <option name="proportions">
+                            <list>
+                                <option value="0.2"/>
+                            </list>
+                        </option>
+                    </splitter-proportions>
+                </settings>
+            </state>
+        </states>
+    </component>
+</project>
+
